@@ -1,0 +1,4 @@
+#Sun Dec 03 16:52:44 TRT 2023
+base.0=C\:\\Users\\atacan\\Desktop\\Unity\\My project\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
